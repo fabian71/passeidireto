@@ -1,0 +1,30 @@
+form {
+    background-color: #f8f8f8;
+    width: 300px;
+    display: flex;
+    padding: 20px;
+    flex-wrap: wrap;
+}
+
+.input{
+width: 100%;
+padding: 15px;
+border-radius: 5px;
+border: 1px solid #ddd;
+}
+
+.button{
+    width: 100%;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 15px;
+    background-color: #ff7300;
+    color: white;
+    font-weight: 700;
+    cursor: pointer;
+    border: 1px solid #ddd;
+}
+
+.button:hover{
+    background-color: #cc8041;
+}
